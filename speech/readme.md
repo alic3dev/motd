@@ -2,5 +2,5 @@
 
 ## [`motd/speech`](speech/)
 
-- [`talking_tree`](faces/talking_tree)
+- [`talking_tree`](speech/talking_tree)
 - - a solo tree being approached while saying "hello..."
