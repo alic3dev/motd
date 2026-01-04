@@ -6,6 +6,8 @@
 - - various ascii art forms of `alic3`
 - [`faces`](faces/)
 - - ascii art faces
+- [`speech`](speech/)
+- - ascii art that contains speech bubbles
 
 ## copyright|copyleft
 
